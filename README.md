@@ -32,15 +32,3 @@ Sua API deve permitir:
 
 - Tempo: 16h15
 - Descrição: Subimos a API para testar o funcionamento
-
-## Revisão - 21/09, quinta-feira
-
-###
-
-- Tempo:
-- Descrição:
-
-##
-
-- Tempo:
-- Descrição:
