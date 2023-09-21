@@ -8,27 +8,39 @@ Criar uma API RESTfull para um site que permita a pessoa digitar o que ela gosta
 
 Sua API deve permitir:
 
-- O usuário deve se cadastrar:
-  - Imagem de perfil
-- Deve conseguir fazer login
-- O usuário deve conseguir editar seus dados
+- Deploy do banco e da aplicação
+- O usuário deve se cadastrar
+  - Receber e-mail de confirmação
+- Editar o perfil
+- Colocar uma foto
+- O usuário deve conseguir logar
 - O usuário obter o roteiro de acordo com os seus gostos e lugar que pretende visitar
 - O usuário deve salvar o roteiro que julgar interessante
-- O usuário deve listar os roteiros salvos
-- O usuário deve deletar um roteiro salvo
 
 <hr>
 
 # Plano de aula
 
-## Revisão parcial - 18/09, segunda-feira
+## Revisão - 18/09, segunda-feira
 
 ### Configurações inciais
 
 - Tempo: 15h24
 - Descrição: Configurações iniciais do projeto
 
-## Rotas
+## Subir a API
 
 - Tempo: 16h15
-- Descrição: Descrição das rotas
+- Descrição: Subimos a API para testar o funcionamento
+
+## Revisão - 21/09, quinta-feira
+
+###
+
+- Tempo:
+- Descrição:
+
+##
+
+- Tempo:
+- Descrição:
